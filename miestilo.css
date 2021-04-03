@@ -1,0 +1,14 @@
+/*comentario en css*/
+
+body{
+    background-color:rgb(96, 163, 180);
+    color:rgb(24, 75, 90);
+    font-family:fantasy;
+    padding-left: 10em;
+}
+img{
+    width: 300px ;
+}
+div{
+    align-items: flex-start;
+}
